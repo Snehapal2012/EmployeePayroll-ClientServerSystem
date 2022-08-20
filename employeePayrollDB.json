@@ -1,0 +1,41 @@
+{
+    "EmployeePayrollDB": [
+      {
+        "id": 1,
+        "_name": "Megha",
+        "_gender": "Female",
+        "_department": [
+          "Engineering",
+          "HR"
+        ],
+        "_salary": "400000",
+        "_startDate": "20 Aug 2022",
+        "_note": "Test",
+        "_profilePic": "../profile-images/Ellipse -1.png"
+      },
+      {
+        "id": 2,
+        "_name": "Sneha",
+        "_gender": "Female",
+        "_department": [
+          "Engineering","Sales"
+        ],
+        "_salary": "500000",
+        "_startDate": "10 Aug 2022",
+        "_note": "Check",
+        "_profilePic": "../profile-images/Ellipse -2.png"
+      },
+      {
+        "id": 3,
+        "_name": "Monica",
+        "_gender": "female",
+        "_department": [
+          "Sales","HR","Engineering"
+        ],
+        "_salary": "450000",
+        "_startDate": "10 Aug 2022",
+        "_note": "Improving",
+        "_profilePic": "../profile-images/Ellipse -1.png"
+      }
+    ]
+  } 
